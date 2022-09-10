@@ -1,18 +1,24 @@
-<!-- DARKNET HAXOR:
-________ _______ ________ ______ _______   ____________________ 
-___  __ \___    |___  __ \___  //_/___  | / /___  ____/___  __/ 
-__  / / /__  /| |__  /_/ /__  ,<   __   |/ / __  __/   __  /    
-_  /_/ / _  ___ |_  _, _/ _  /| |  _  /|  /  _  /___   _  /     
-/_____/  /_/  |_|/_/ |_|  /_/ |_|  /_/ |_/   /_____/   /_/     
-
-______  _________ ____  _________ ________                     
-___  / / /___    |__  |/ /__  __ \___  __ \                    
-__  /_/ / __  /| |__    / _  / / /__  /_/ / 
-_  __  /  _  ___ |_    |  / /_/ / _  _, _/  
-/_/ /_/   /_/  |_|/_/|_|  \____/  /_/ |_| 
+<!--  a vampire ~ 9/96:
+              __.......__
+            .-:::::::::::::-.
+          .:::''':::::::''':::.
+        .:::'     `:::'     `:::. 
+   .'\  ::'   ^^^  `:'  ^^^   '::  /`.
+  :   \ ::   _.__       __._   :: /   ;
+ :     \`: .' ___\     /___ `. :'/     ; 
+:       /\   (_|_)\   /(_|_)   /\       ;
+:      / .\   __.' ) ( `.__   /. \      ;
+:      \ (        {   }        ) /      ; 
+ :      `-(     .  ^"^  .     )-'      ;
+  `.       \  .'<`-._.-'>'.  /       .'
+    `.      \    \;`.';/    /      .'
+ jgs  `._    `-._       _.-'    _.'
+       .'`-.__ .'`-._.-'`. __.-'`.
+     .'       `.         .'       `.
+   .'           `-.   .-'           `.
 ------------------------------------------------------------    
-Author   : darknet haxor 
-Telegram : https://t.me/officialdarknethaxor
+Author   : 
+Telegram : 
 ------------------------------------------------------------>
 <html lang="en" dir="ltr" data-page-type="react.authv2" class="is-js_yes is-inlinesvg_yes"><head><title>Authorization</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7,IE=edge"><link rel="preload" as="style" href="https://yastatic.net/s3/passport-static/core/v1.12.2/css/react.authv2.cij.css"><link crossorigin="anonymous" href="//yastatic.net/react/16.8.4/react-with-dom-and-polyfills.min.js" rel="preload" as="script"><link crossorigin="anonymous" href="https://yastatic.net/jquery/2.1.4/jquery.min.js" rel="preload" as="script"><link rel="shortcut icon" href="/favicon.ico"><meta name="pdb" content="disable"><meta name="collections" content="disable"><link rel="stylesheet" type="text/css" href="https://yastatic.net/s3/passport-static/core/v1.12.2/css/react.authv2.cij.css"><link rel="stylesheet" type="text/css" href="https://yastatic.net/s3/passport-auth-customs//customs/v1.1.19/passport.auth.customs.css"><script type="text/javascript" nonce="">(function(d, e, c, r, n, w, v, f) {e = d.documentElement; c = "className"; r = "replace"; n = "createElementNS"; f = "firstChild"; w = "http://www.w3.org/2000/svg"; v = d.createElement("div"); v.innerHTML = "<svg/>"; e[c] = e[c][r]("is-js_no", "is-js_yes"); e[c] += " is-inlinesvg_" + ((v[f] && v[f].namespaceURI) === w ? "yes" : "no"); })(document);</script><script type="text/javascript" nonce="">window.onerror=function(d,e,f,g,b){var h=new Image,a=["app=passport"],c="";d&&a.push("msg="+encodeURIComponent(d));e&&a.push("url="+encodeURIComponent(e));(f||g)&&a.push("position="+encodeURIComponent(f+":"+g));if(b){try{c=JSON.stringify(b,Object.getOwnPropertyNames(b))}catch(k){c=b.stack}a.push("error_object="+encodeURIComponent(c))}h.src="/monitoring/onerror?"+a.join("&");return!1};</script><script type="text/javascript" nonce="">!function(i,t){if(i.Ya=i.Ya||{},Ya.Rum)throw new Error("Rum: interface is already defined");var n=i.performance,e=n&&n.timing&&n.timing.navigationStart||Ya.startPageLoad||+new Date,s=i.requestAnimationFrame;Ya.Rum={enabled:!!n,vsStart:document.visibilityState,vsChanged:!1,_defTimes:[],_defRes:[],_deltaMarks:{},_markListeners:{},_settings:{},_vars:{},init:function(i,t){this._settings=i,this._vars=t},getTime:n&&n.now?function(){return n.now()}:Date.now?function(){return Date.now()-e}:function(){return new Date-e},time:function(i){this._deltaMarks[i]=[this.getTime()]},timeEnd:function(i,t){var n=this._deltaMarks[i];n&&0!==n.length&&n.push(this.getTime(),t)},sendTimeMark:function(i,t,n,e){void 0===t&&(t=this.getTime()),this._defTimes.push([i,t,e]),this.mark(i,t)},sendResTiming:function(i,t){this._defRes.push([i,t])},sendRaf:function(i){var t=this.getSetting("forceFirstPaintTimeSending");if(s&&(t||!this.isVisibilityChanged())){var n=this,e="2616."+i;s(function(){!t&&n.isVisibilityChanged()||(n.sendTimeMark(e+".205"),s(function(){!t&&n.isVisibilityChanged()||n.sendTimeMark(e+".1928")}))})}},isVisibilityChanged:function(){return this.vsStart&&("visible"!==this.vsStart||this.vsChanged)},mark:n&&n.mark?function(i,t){n.mark(i+(t?": "+t:""))}:function(){},getSetting:function(i){var t=this._settings[i];return null===t?null:t||""},on:function(i,t){"function"==typeof t&&(this._markListeners[i]=this._markListeners[i]||[]).push(t)},sendTrafficData:function(){},finalizeLayoutShiftScore:function(){},finalizeLargestContentfulPaint:function(){}},document.addEventListener&&document.addEventListener("visibilitychange",function i(){Ya.Rum.vsChanged=!0,document.removeEventListener("visibilitychange",i)})}(window);
 !function(){"use strict";Ya.Rum.observeDOMNode=window.IntersectionObserver?function(e,i,n){var t=this,r=Ya.Rum.getSetting("forceFirstPaintTimeSending");!function s(){if(r||!t.isVisibilityChanged()){var o="string"==typeof i?document.querySelector(i):i;o?new IntersectionObserver(function(i,n){!r&&t.isVisibilityChanged()||(Ya.Rum.sendTimeMark(e),n.unobserve(o))},n).observe(o):setTimeout(s,100)}}()}:function(){}}();
