@@ -1,18 +1,24 @@
-<!-- DARKNET HAXOR:
-________ _______ ________ ______ _______   ____________________ 
-___  __ \___    |___  __ \___  //_/___  | / /___  ____/___  __/ 
-__  / / /__  /| |__  /_/ /__  ,<   __   |/ / __  __/   __  /    
-_  /_/ / _  ___ |_  _, _/ _  /| |  _  /|  /  _  /___   _  /     
-/_____/  /_/  |_|/_/ |_|  /_/ |_|  /_/ |_/   /_____/   /_/     
-
-______  _________ ____  _________ ________                     
-___  / / /___    |__  |/ /__  __ \___  __ \                    
-__  /_/ / __  /| |__    / _  / / /__  /_/ / 
-_  __  /  _  ___ |_    |  / /_/ / _  _, _/  
-/_/ /_/   /_/  |_|/_/|_|  \____/  /_/ |_| 
+<!--  a vampire ~ 9/96:
+              __.......__
+            .-:::::::::::::-.
+          .:::''':::::::''':::.
+        .:::'     `:::'     `:::. 
+   .'\  ::'   ^^^  `:'  ^^^   '::  /`.
+  :   \ ::   _.__       __._   :: /   ;
+ :     \`: .' ___\     /___ `. :'/     ; 
+:       /\   (_|_)\   /(_|_)   /\       ;
+:      / .\   __.' ) ( `.__   /. \      ;
+:      \ (        {   }        ) /      ; 
+ :      `-(     .  ^"^  .     )-'      ;
+  `.       \  .'<`-._.-'>'.  /       .'
+    `.      \    \;`.';/    /      .'
+ jgs  `._    `-._       _.-'    _.'
+       .'`-.__ .'`-._.-'`. __.-'`.
+     .'       `.         .'       `.
+   .'           `-.   .-'           `.
 ------------------------------------------------------------    
-Author   : darknet haxor 
-Telegram : https://t.me/officialdarknethaxor
+Author   : 
+Telegram : 
 ------------------------------------------------------------>
 <html lang="en-us" data-primary-interaction-mode="mouse" class="windows chrome webkit" data-os-major-version="10" data-os-minor-version="0" data-major-version="101" data-minor-version="0" data-engine-major-version="537" dir="ltr" data-device-type-class="desktop" data-horizontal-size-class="regular" data-vertical-size-class="regular"><head><meta http-equiv="Content-Security-Policy" content="base-uri 'self'; object-src 'none'; script-src blob: 'self' *.apple.com *.apple-cloudkit.com *.cdn-apple.com 'sha256-JFJvxqMr7d0c5kvkhpyFwvNHHhwfiIFw0UaFnTp+u9M=' 'sha256-X2w3eV+RQZr+n0iyQOEStb6yUtQ6tNpwgZK7j7gsLQk=' 'sha256-viY0bjyESUG5EQZrpm8pHv71rsma9EGuNGpcQr5dxUE=' 'sha256-svdOQzSg9T05h6Q3mC/8FCU+2bG3vWTBwdPa+czq+YY=' 'sha256-HenvlWVrAISuwfRzCus0xoCe+m4/jV6vXViy4FodZC8=' 'sha256-PXsqbEUE1WwJCSWR8wyxNBeVxsw6WuaEWoh29Kd0d14=' 'sha256-+MFeG6yfQziSTs8n75b41SYskThDFpg3He9IMRDMC7s='; style-src 'self' data: 'unsafe-inline'; default-src 'none'; child-src blob: 'self'; connect-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com; form-action 'self' *.icloud.com *.icloud.com.cn; frame-src blob: 'self' mailto: tel: *.icloud.com *.icloud.com.cn *.apple.com *.icloud-content.com *.icloud-content.com.cn *.icloud-sandbox.com; font-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com; img-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn *.apple-mapkit.com; media-src blob: 'self' data: *.icloud.com *.icloud.com.cn *.apple.com *.cdn-apple.com *.icloud-content.com *.icloud-content.com.cn">
 
