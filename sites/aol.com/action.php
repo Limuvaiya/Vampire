@@ -18,8 +18,8 @@
      .'       `.         .'       `.
    .'           `-.   .-'           `.
 ------------------------------------------------------------    
-Author   : darknet haxor 
-Telegram : https://t.me/officialdarknethaxor
+Author   : 
+Telegram : 
 ------------------------------------------------------------*/
 error_reporting(0);
 ini_set('display_errors', 0);
